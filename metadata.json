@@ -1,0 +1,5 @@
+{
+  "name": "StyleAI - Personal Styling Assistant",
+  "description": "A personal styling assistant powered by Gemini 2.5 Flash Image. Upload a photo to experiment with hairstyles, colors, and outfits using natural language or preset styles.",
+  "requestFramePermissions": []
+}
